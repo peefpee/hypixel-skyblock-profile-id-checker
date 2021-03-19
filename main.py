@@ -34,4 +34,3 @@ for i in data['profile_id']:
 f = open("output.txt", "a")
 f.write(i)
 f.close()
-print (i)
